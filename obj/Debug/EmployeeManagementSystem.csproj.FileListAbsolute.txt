@@ -1,0 +1,37 @@
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Materiel.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\itextsharp.dll
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\itextsharp.xml
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Employee.A4622930.Up2Date
+D:\pro\Employee-Management-System-in-CSharp-main(2)\Employee-Management-System-in-CSharp-main\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
